@@ -1,0 +1,12 @@
+C:\Users\luchi\Desktop\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\luchi\Desktop\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\luchi\Desktop\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\luchi\Desktop\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\luchi\Desktop\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\luchi\Desktop\Entidades\Entidades\obj\Debug\Entidades.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\bin\Debug\Entidades.exe.config
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\bin\Debug\Entidades.exe
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\obj\Debug\Entidades.exe
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Entidades\obj\Debug\Entidades.pdb

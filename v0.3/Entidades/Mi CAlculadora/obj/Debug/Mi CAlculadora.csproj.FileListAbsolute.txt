@@ -1,0 +1,22 @@
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.exe.config
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.csprojResolveAssemblyReference.cache
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.csproj.GenerateResource.Cache
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.exe
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.pdb
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\bin\Debug\Entidades.exe
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\bin\Debug\Entidades.pdb
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.exe
+C:\Users\luchi\Desktop\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.exe.config
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.exe
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\Mi CAlculadora.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.exe
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\bin\Debug\Mi CAlculadora.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\bin\Debug\Entidades.exe
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\bin\Debug\Entidades.pdb
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\Mi Calculadora.csprojResolveAssemblyReference.cache
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\TSP\Prog 2\TP 1\v0.3\Entidades\Mi CAlculadora\obj\Debug\Mi Calculadora.csproj.GenerateResource.Cache
